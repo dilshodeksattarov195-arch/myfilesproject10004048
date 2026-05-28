@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvalidate",
+        "uuid": 23008832,
+        "checksum": "gieynt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
